@@ -1,7 +1,7 @@
 export const PROJECT_NAME = 'Foodyman marketplace';
 export const BASE_URL =
-  process.env.REACT_APP_BASE_URL || 'httpы://rest.cdpos.uz';
-export const WEBSITE_URL = 'https://cdrest.vercel.app';
+  process.env.REACT_APP_BASE_URL || 'https://rest.cdpos.uz';
+export const WEBSITE_URL = 'https://foodyman.org';
 
 export const api_url = BASE_URL + '/api/v1/';
 export const api_url_admin = BASE_URL + '/api/v1/dashboard/admin/';
